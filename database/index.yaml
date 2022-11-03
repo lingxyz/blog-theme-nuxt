@@ -2,15 +2,10 @@ info:
   description: Ling Z, a Code Designer.
 # 菜单列表
 menus:
-- title: Blog
+- title: 专栏
   link: https://yuque.com/zeroll
-- title: 'Tutorials'
-  link: https://github.com/zhanglingx?tab=repositories&q=tutorial
-
-# - title: Books
-  # link: https://github.com/zhanglingx?tab=repositories&q=book
-- title: Projects
-  link: https://github.com/zhanglingx?tab=repositories&q=project
+- title: 项目
+  link: https://github.com/lingxyz?tab=repositories&q=project
 - title: Code
   link: https://github.com/lingxyz
 - title: About me
@@ -29,3 +24,25 @@ recommends:
 - title: '《Vue可视化开发》'
   link: 'https://github.com/cookx/vue-visual'
   background: '#f90'
+# 专栏列表
+books:
+- title: 专栏名称-test1
+  link: 'https://zhangling.site/standard/'
+  icon: icon-github
+- title: 专栏名称-test1
+  link: 'https://zhangling.site/standard/'
+  icon: icon-github
+- title: 专栏名称-test1
+  link: 'https://zhangling.site/standard/'
+  icon: icon-github
+- title: 专栏名称-test1
+  link: 'https://zhangling.site/standard/'
+  icon: icon-github
+- title: 专栏名称-test1
+  link: 'https://zhangling.site/standard/'
+  icon: icon-github
+# 项目列表
+projects:
+- title: 项目名称-test1
+  link: 'https://zhangling.site/standard/'
+  icon: icon-github
